@@ -1,0 +1,20 @@
+government "The Rejectocracy"
+	color 0 1 0
+	swizzle 3
+	"player reputation" 10
+	"attitude toward"
+		"Korath" -.1
+		"Republic" .1
+		"Ai'Rs" -10000
+		"Pug" -.1
+		"Quarg" -.1
+		"Hai" -.1
+		"Hai (Unfettered)" .1
+		"Wanderer" -.1
+		"Independant" .1
+		"Syndicate" .1
+		"Deep Sky" .1
+	"bribe" .05
+	"fine" 0
+	"friendly hail" "friendly civilian"
+	"hostile hail" "hostile civilian"
