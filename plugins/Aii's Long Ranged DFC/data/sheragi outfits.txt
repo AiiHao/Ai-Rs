@@ -4,3 +4,5 @@ outfit "Dragonflame Cannon"
 	weapon
 		"velocity" 4000
 		"lifetime" 1
+		"damage dropoff" 2000 4000
+		"dropoff modifier" .5
