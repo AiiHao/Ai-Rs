@@ -1,7 +1,0 @@
-name "Aii's Long Ranged DFC"
-version 1.0
-authors
-	sanketsu.girl
-tags
-	weapons
-about "A plugin that increases the Dragonflame Cannon's range!!!"
