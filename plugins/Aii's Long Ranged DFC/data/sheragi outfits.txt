@@ -1,6 +1,0 @@
-# Weapons
-
-outfit "Dragonflame Cannon"
-	weapon
-		"velocity" 3750
-		"lifetime" 1
