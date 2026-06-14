@@ -2,5 +2,5 @@
 
 outfit "Dragonflame Cannon"
 	weapon
-		"velocity" 3750
+		"velocity" 4000
 		"lifetime" 1
